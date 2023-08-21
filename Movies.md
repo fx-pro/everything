@@ -1,1 +1,1 @@
-Barefoot Gen (1983): [Magnet Link](magnet:?xt=urn:btih:cc3433dcacd24590b2531f2cb8a9f2bebc297951&dn=Barefoot+Gen+(1983)+(1080p+BluRay+x265+HEVC+10bit+AAC+2.0+Japanese+r00t)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce)
+Barefoot Gen (1983): [Torrent / FHD](https://btdig.com/cb790aaad80bdb26773e2cc130210a6ce8fc0f63/barefoot-gen-1983)
