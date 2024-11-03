@@ -6,7 +6,7 @@
 ! Version: 3.0.4.8
 
 ! General
-
+newyorker.com##.persistent-bottom
 newyorker.com##.PersistentBottomWrapper-eddooY
 ||axate.io$script,third-party
 ||loader-cdn.azureedge.net^$third-party
